@@ -120,8 +120,8 @@ pacman -S zathura librewolf htop ncmpcpp newsboat lf networkmanager neomutt prof
 | <kbd>⊞ </kbd> + <kbd>F3</kbd> |  displayselect |
 | <kbd>⊞ </kbd> + <kbd>F4</kbd> |  pulsemixer |
 | <kbd>⊞ </kbd> + <kbd>F5</kbd> |  xrdb |
-| <kbd>⊞ </kbd> + <kbd>F6</kbd> |  torwrap |
-| <kbd>⊞ </kbd> + <kbd>F7</kbd> |  td-toggle |
+| <kbd>⊞ </kbd> + <kbd>F6</kbd> |  torwrap (stig) |
+| <kbd>⊞ </kbd> + <kbd>F7</kbd> |  td-toggle (transmission-cli) |
 | <kbd>⊞ </kbd> + <kbd>F8</kbd> |  mailsync |
 | <kbd>⊞ </kbd> + <kbd>F9</kbd> |  mounter |
 | <kbd>⊞ </kbd> + <kbd>F10</kbd> |  unmounter |
